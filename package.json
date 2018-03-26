@@ -1,0 +1,22 @@
+{
+  "name": "pgl-ui-kit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pgl-uikit.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bastardweb/PGL-UI-Kit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bastardweb/PGL-UI-Kit/issues"
+  },
+  "homepage": "https://github.com/bastardweb/PGL-UI-Kit#readme"
+}
