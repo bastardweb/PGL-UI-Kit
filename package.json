@@ -7,7 +7,7 @@
     "example": "examples"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,15 @@
   "bugs": {
     "url": "https://github.com/bastardweb/PGL-UI-Kit/issues"
   },
-  "homepage": "https://github.com/bastardweb/PGL-UI-Kit#readme"
+  "homepage": "https://github.com/bastardweb/PGL-UI-Kit#readme",
+  "devDependencies": {
+    "grunt": "^1.0.2"
+  },
+  "dependencies": {
+    "grunt-cli": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "^2.0.1",
+    "grunt-contrib-uglify": "^3.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+  }
 }
